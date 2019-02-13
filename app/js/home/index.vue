@@ -1,13 +1,14 @@
 <template>
-    <div>hello</div>
+    <div>
+        <Heador/>
+    </div>
 </template>
 
 <script>
+import Heador from "../public/header.vue"
 export default {
-    name: 'index',
-
-    data() {
-        return {};
+    components: {
+        Heador,
     }
 }
 </script>
