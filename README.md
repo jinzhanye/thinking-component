@@ -12,6 +12,9 @@ JS 组件化设计
 - 周期性迭代
 - 先整体后部分再颗粒化
     
+- dl dt dd
+- 画分割线的方法：div、hr、伪元素、border
+
 Q:
 
 - inline-flex ?

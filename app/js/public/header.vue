@@ -13,7 +13,7 @@
 import btn from '../core/btn.vue';
 
 export default {
-    name: 'header',
+    name: 'heador',
     components: {
         btn,
     }
